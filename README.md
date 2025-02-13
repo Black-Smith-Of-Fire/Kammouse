@@ -1,0 +1,1 @@
+Hand motions to navigate 
