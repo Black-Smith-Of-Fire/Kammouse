@@ -1,1 +1,0 @@
-Simple camera using opencv
